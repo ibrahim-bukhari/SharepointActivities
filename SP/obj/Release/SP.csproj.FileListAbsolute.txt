@@ -1,0 +1,7 @@
+c:\users\bukhari\documents\visual studio 2015\Projects\SP\SP\obj\Release\SP.csprojResolveAssemblyReference.cache
+c:\users\bukhari\documents\visual studio 2015\Projects\SP\SP\bin\Release\SP.dll
+c:\users\bukhari\documents\visual studio 2015\Projects\SP\SP\bin\Release\SP.pdb
+c:\users\bukhari\documents\visual studio 2015\Projects\SP\SP\bin\Release\Microsoft.SharePoint.Client.dll
+c:\users\bukhari\documents\visual studio 2015\Projects\SP\SP\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+c:\users\bukhari\documents\visual studio 2015\Projects\SP\SP\obj\Release\SP.dll
+c:\users\bukhari\documents\visual studio 2015\Projects\SP\SP\obj\Release\SP.pdb
